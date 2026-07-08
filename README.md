@@ -89,8 +89,7 @@ Featured in 22+ curated Wabbajack collections.
 
 ### ⚔️ PROJECT Skyrim
 *A large, community-run Wabbajack modlist*
-
-The current world and gameplay overhaul draws mostly from my own modlist, per the project's own changelog.
+A large community Wabbajack modlist I **was** a major contributor to, Much of the work are done by me and the Owner.
 
 **30 ★** · **12 forks**
 
