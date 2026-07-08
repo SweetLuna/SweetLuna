@@ -88,8 +88,7 @@ Featured in 22+ curated Wabbajack collections.
 <img src="https://dummyimage.com/600x400/0B0C0E/D9B99C&text=PROJECT+Skyrim+Here" width="100%" alt="PROJECT Skyrim" />
 
 ### ⚔️ PROJECT Skyrim
-*A large, community-run Wabbajack modlist*
-A large community Wabbajack modlist I **was** a major contributor to, Much of the work are done by me and the Owner.
+*A large community Wabbajack modlist.* I **was** a major contributor to, Much of the work are done by me and the Owner.
 
 **30 ★** · **12 forks**
 
