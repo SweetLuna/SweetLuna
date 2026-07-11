@@ -61,7 +61,7 @@ Kenshi merged with AbyssOrangeMix2 and HoloKuki through a hand-tuned Merge Block
 <td width="50%" valign="top" align="center">
 
 <!-- PLACEHOLDER: Kenshi image -->
-<img src="https://dummyimage.com/600x400/0B0C0E/D9B99C&text=Kenshi" width="100%" alt="Kenshi" />
+<img src="https://c.l3n.co/TAxjOD.png" width="100%" alt="Kenshi" />
 
 ### 🏮 Kenshi
 *The merge that started all of this*
