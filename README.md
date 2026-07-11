@@ -43,7 +43,7 @@ You can find me on Discord as `sweet_luna`, usually online somewhere past midnig
 <td width="50%" valign="top" align="center">
 
 <!-- PLACEHOLDER: Aurora image -->
-<img src="https://dummyimage.com/600x400/0B0C0E/D9B99C&text=Aurora" width="100%" alt="Aurora" />
+<img src="https://b.l3n.co/Ty4gfb.png" width="100%" alt="Aurora" />
 
 ### 🌅 Aurora
 *The dawn that followed Kenshi*
