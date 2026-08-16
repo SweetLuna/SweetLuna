@@ -1,5 +1,5 @@
 <div align="center">
-
+<!-- STILL WIP WILL DONE SOON -->
 <p><img src="https://dummyimage.com/500X500/0B0C0E/D9B99C&text=WIP Luna" width="300" alt="Profile picture" /></p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=28&pause=1200&color=D9B99C&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Luna.;I+build+Stable+Diffusion+checkpoints.;Creator+of+Aurora+%26+Kenshi.;Occasionally+I+break+Skyrim." alt="typing banner" />
