@@ -150,15 +150,26 @@ Fully guided step-by-step recipes for Aurora and Kenshi live in Figma cookbooks.
 
 <a name="tools"></a>
 <details>
-<summary><h2>🛠️ Tools I Reach For</h2></summary>
+<summary><h2>🛠️ Tech & Tools</h2></summary>
 <br>
 
+
+<p align="center"><b>Generative AI</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Stable%20Diffusion-0B0C0E?style=for-the-badge&logo=stability-ai&logoColor=D9B99C" />
 <img src="https://img.shields.io/badge/AUTOMATIC1111-0B0C0E?style=for-the-badge&labelColor=0B0C0E" />
 <img src="https://img.shields.io/badge/kohya__ss-0B0C0E?style=for-the-badge&labelColor=0B0C0E" />
-<img src="https://img.shields.io/badge/Node.js-0B0C0E?style=for-the-badge&logo=node.js&logoColor=339933" />
+</p>
+
+<p align="center"><b>Development</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-0B0C0E?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/JavaScript-0B0C0E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Node.js-0B0C0E?style=for-the-badge&logo=node.js&logoColor=339933" />
+</p>
+
+<p align="center"><b>Design</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Figma-0B0C0E?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
