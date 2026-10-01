@@ -1,4 +1,6 @@
-
+<p align="center" style="font-family: Georgia, 'Times New Roman', serif; font-size: 1.1em; letter-spacing: 0.03em; opacity: 0.85;">
+  “Explore the New Horizons.... Don't let indecision limit your potential, The world is full of possibilities. - Luna”
+</p>
 
 <hr>
 
@@ -7,17 +9,16 @@
 <summary><h2>🌙 Who I Am</h2></summary>
 <br>
 
-Hi, I'm Luna. I've never been good at leaving things the way they came.
+Hi, I'm Luna. 💛
 
-I make Stable Diffusion models. **Aurora** is the one I'm proudest of: hundreds of hours merging block by block and baking LoRAs into the weights until the eyes finally looked right. Before Aurora there was **Kenshi**, and the recipes for both are open below, broken attempts included.
+I make Stable Diffusion models. **Aurora** is the one I'm proudest of, hundreds of hours merging block by block and baking LoRAs into the weights until the model finally looked right. Before Aurora there was **Kenshi**, and the recipes for both are open below, broken attempts included inside Figma.
 
-I mod games. I'm a verified Nexus Mods author, my SmoothCam preset has been downloaded over 434,000 times, and I co-owned PROJECT Skyrim, a large Wabbajack modlist. It goes back further than that, though. At 14 I was writing Minecraft Pocket Edition mods on my phone.
+I mod games. I'm a verified Nexus Mods author, my SmoothCam preset has been downloaded over 434,000 times, and I co-owned PROJECT Skyrim, a large Wabbajack modlist. It goes back further than that, though.
 
-I take things apart. Lately that means reverse engineering games and Android apps with Frida, hooking into them while they run to see what they're really doing.
+At 14 I was writing Minecraft PE mods on my phone. These days I'm reverse engineering games and Android apps with Frida, it's a really fun challenge for me.
 
-And somewhere in between, I ran my own shop from 16 to 22 and grew it into a Discord community of more than 40,000 people. Right now I'm also building a music dashboard, front to back.
+Around 16 to 22, I ran my own shop and grew it into a Discord community of more than 40,000 people. Right now I'm also building a music dashboard, frontend to backend.
 
-Luna for the moon, Aurora for the dawn 💛
 
 <br>
 
