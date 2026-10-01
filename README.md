@@ -1,7 +1,3 @@
-<p align="center" style="font-family: Georgia, 'Times New Roman', serif; font-size: 1.1em; letter-spacing: 0.03em; opacity: 0.85;">
-  “Explore the New Horizons.... Don't let indecision limit your potential, The world is full of possibilities. - Luna”
-</p>
-
 <hr>
 
 <a name="about"></a>
@@ -70,11 +66,11 @@ Around 16 to 22, I ran my own shop and grew it into a Discord community of more 
 
 <!-- add the project name here once it has one -->
 
-A premium music dashboard I'm building end to end. I design the interface in Google Stitch, then build both the frontend and the backend myself.
+A premium music dashboard I'm building, design the interface in Google Stitch, then build both the frontend and the backend myself.
 
-It runs on my own server, so it stays private for now. A public preview build is on the way.
+It runs on my own Linux server, so it stays private for now... A public preview build is still in progress.
 
-<!-- add your real stack as badges here, e.g. framework, database, hosting -->
+<!-- add real stack as badges -->
 
 **Status:** in progress
 
@@ -82,7 +78,7 @@ It runs on my own server, so it stays private for now. A public preview build is
 </tr>
 </table>
 
-Alongside it, I reverse engineer games and Android APKs with **Frida**: hooking functions at runtime, tracing what an app does, and figuring out why it behaves the way it does.
+Meanwhile, I also reverse engineer games and Android APKs with **Frida**: hooking functions at runtime, tracing what an app does, and figuring out why it behaves the way it does.
 
 </details>
 
@@ -101,9 +97,9 @@ Alongside it, I reverse engineer games and Android APKs with **Frida**: hooking 
 
 ### 🌅 Aurora
 
-My proudest work. Aurora is a semi-realistic anime checkpoint and the successor to Kenshi. I wanted a model that felt like the anime styles I love but was more versatile than anything I had made before.
+My proudest work. Aurora is a semi-realistic anime checkpoint and the successor to Kenshi. I wanted a model that challenge all versatility that Stable Diffusion 1.5 can achieve.
 
-It's a hand-tuned block-weighted merge of Kenshi, AbyssOrangeMix2 and HoloKuki, with eight LoRAs baked into the weights. It also ships with two negative embeddings I trained on about 200 of my own generations, plus an `SLE` trigger word just for the eyes. The name means "dawn" in Latin: a fresh start.
+It's a hand-tuned block-weighted merge of Kenshi, AbyssOrangeMix2 and HoloKuki, with eight LoRAs baked into the weights. It also ships with two negative embeddings I trained on about 200 of my own generations, plus an `SLE` trigger word just for the eyes. The name means "dawn" in Latin: a fresh start. Around 500 downloads monthly.
 
 **15.5K downloads** · **2,211 Overwhelmingly Positive reviews**
 
@@ -119,9 +115,9 @@ It's a hand-tuned block-weighted merge of Kenshi, AbyssOrangeMix2 and HoloKuki, 
 
 ### 🏮 Kenshi
 
-My first big merge. Kenshi blends style models inspired by artists like Nixeu, WLOP, Guweiz and BoChen into one semi-realistic look. I tested it against 30 to 50 different styles, and it held up in most of them.
+My first merge. Kenshi blends style models inspired by artists like Nixeu, WLOP, Guweiz and BoChen into one semi-realistic look. I tested it against 30 to 50 different styles, and it held up in most of them.
 
-I named it Kenshi for strength and resilience, because getting there took a lot of broken eyes and rough hair. Every step is documented in the recipes below.
+I named it Kenshi for strength and resilience. Every step is documented in the recipes below. Around 700 downloads monthly.
 
 **22K+ downloads** · **3,407 Overwhelmingly Positive reviews**
 
