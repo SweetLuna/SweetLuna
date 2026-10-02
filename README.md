@@ -2,10 +2,8 @@
 
 <a name="about"></a>
 <details open>
-<summary><h2>🌙 Who I Am</h2></summary>
+<summary><h2>Hi, I'm Luna. 🌙</h2></summary>
 <br>
-
-Hi, I'm Luna. 💛
 
 I make Stable Diffusion models. **Aurora** is the one I'm proudest of, hundreds of hours merging block by block and baking LoRAs into the weights until the model finally looked right. Before Aurora there was **Kenshi**, and the recipes for both are open below, broken attempts included inside Figma.
 
